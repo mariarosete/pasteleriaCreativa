@@ -92,7 +92,7 @@ Este proyecto fue desarrollado para:
 
 ---
 
-## 📦 Ejecución
+## 💻 Cómo ejecutar el proyecto
 
 1. Abre el proyecto en tu IDE (IntelliJ, NetBeans o Eclipse).  
 2. Asegúrate de usar una versión de Java compatible.  
@@ -101,8 +101,20 @@ Este proyecto fue desarrollado para:
 
 ---
 
-## 👩‍💻 Autora
+## 📩 Contacto
 
-Desarrollado por **María Rosete Suárez**.
+<p align="center">
+  <a href="mailto:marlarosete89@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/mariarosetesuarez">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mariarosete">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
+
+<p align="center">Desarrollado con ❤️ por <b>María Rosete Suárez</b> </p>
