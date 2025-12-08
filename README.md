@@ -1,6 +1,6 @@
 # 🍰 Pastelería Creativa – Aplicación de Escritorio en Java Swing
 
-<img src="https://placehold.co/1200x400?text=Pasteleria+Creativa" width="100%" />
+![Banner Portafolio](https://github.com/mariarosete/pasteleriaCreativa/blob/main/fondo.png?raw=true)
 
 **Pastelería Creativa** es una aplicación de escritorio desarrollada en **Java Swing** que permite crear, gestionar y visualizar recetas de repostería desde una interfaz intuitiva.  
 El usuario puede definir postres, añadir ingredientes, guardar recetas, cargarlas desde archivos de texto, personalizar la interfaz y acceder a una ayuda completa integrada en la aplicación.
