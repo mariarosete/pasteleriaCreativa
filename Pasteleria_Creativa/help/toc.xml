@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE toc PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN" "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+<toc version="1.0">
+    <!-- Apartado principal: Inicio -->
+    <tocitem text="Inicio" target="inicio"/>
+
+    <!-- Apartado principal: Funcionalidades -->
+    <tocitem text="Funcionalidades principales" target="funcionalidades">
+        <tocitem text="Ingresar nombre del postre" target="ingresar_nombre_postre"/>
+        <tocitem text="Seleccionar tipo de postre" target="seleccionar_tipo_postre"/>
+        <tocitem text="Seleccionar categoria del postre" target="seleccionar_categoria_postre"/>
+        <tocitem text="Agregar ingredientes" target="agregar_ingredientes"/>
+        <tocitem text="Ver recetas" target="ver_recetas"/>
+    </tocitem>
+
+    <!-- Apartado principal: Gestión de archivos -->
+    <tocitem text="Gestion de archivos" target="gestion_archivos">
+        <tocitem text="Cargar archivo de recetas" target="cargar_txt"/>
+        <tocitem text="Generar archivo de texto" target="generar_txt"/>
+    </tocitem>
+
+    <!-- Apartado principal: Personalización -->
+    <tocitem text="Personalizacion" target="personalizacion">
+        <tocitem text="Escoge el color del texto" target="color_texto"/>
+    </tocitem>
+</toc>
+
+
+
+
+

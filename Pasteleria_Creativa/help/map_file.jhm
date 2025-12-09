@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE map PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 2.0//EN" "http://java.sun.com/products/javahelp/map_2_0.dtd">
+<map version="1.0">
+    <mapID target="inicio" url="html/inicio.html"/>
+    <mapID target="funcionalidades" url="html/funcionalidades.html"/>
+    <mapID target="ingresar_nombre_postre" url="html/ingresar_nombre_postre.html"/>
+    <mapID target="seleccionar_tipo_postre" url="html/seleccionar_tipo_postre.html"/>
+    <mapID target="seleccionar_categoria_postre" url="html/seleccionar_categoria_postre.html"/>
+    <mapID target="agregar_ingredientes" url="html/agregar_ingredientes.html"/>
+    <mapID target="ver_recetas" url="html/ver_recetas.html"/>
+    <mapID target="gestion_archivos" url="html/gestion_archivo.html"/>
+    <mapID target="cargar_txt" url="html/cargar_txt.html"/>
+    <mapID target="generar_txt" url="html/generar_txt.html"/>
+    <mapID target="personalizacion" url="html/personalizacion.html"/>
+    <mapID target="color_texto" url="html/color_texto.html"/>
+</map>
