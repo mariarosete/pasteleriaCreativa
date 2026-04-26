@@ -7,6 +7,18 @@ El usuario puede definir postres, añadir ingredientes, guardar recetas, cargarl
 
 ---
 
+## 🎥 Demo en vídeo
+
+Puedes ver el funcionamiento de la aplicación aquí:
+
+👉 http://localhost:5173/src/assets/pasteleria.mp4
+
+🖥️ Aplicación de escritorio desarrollada con Java Swing.
+
+---
+
+## 📑 Tabla de contenidos
+
 ## ✨ Características principales
 
 ### 🧁 Creación de recetas
