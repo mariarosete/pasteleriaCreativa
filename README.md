@@ -11,7 +11,7 @@ El usuario puede definir postres, añadir ingredientes, guardar recetas, cargarl
 
 Puedes ver el funcionamiento de la aplicación aquí:
 
-👉 http://localhost:5173/src/assets/pasteleria.mp4
+👉 https://mariarosete.vercel.app/assets/pasteleria-D-NwjL4p.mp4
 
 🖥️ Aplicación de escritorio desarrollada con Java Swing.
 
