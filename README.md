@@ -17,8 +17,6 @@ Puedes ver el funcionamiento de la aplicación aquí:
 
 ---
 
-## 📑 Tabla de contenidos
-
 ## ✨ Características principales
 
 ### 🧁 Creación de recetas
