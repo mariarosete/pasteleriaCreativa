@@ -2,9 +2,11 @@
 
 ![Banner Pasteleria](https://github.com/mariarosete/pasteleriaCreativa/blob/main/screenshots/fondo.png?raw=true)
 
-*Aplicación de escritorio desarrollada en **Java Swing** para la creación y gestión de recetas de repostería.  
+Aplicación de escritorio desarrollada en **Java Swing** para la creación y gestión de recetas de repostería.  
 Permite añadir ingredientes, guardar y cargar recetas, y gestionar la información desde una interfaz gráfica intuitiva.
+
 ---
+
 ## 🎥 Demo en vídeo
 
 Puedes ver el funcionamiento de la aplicación aquí:
