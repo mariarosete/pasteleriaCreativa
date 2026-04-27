@@ -6,15 +6,16 @@ Aplicación de escritorio desarrollada en **Java Swing** para la creación y ges
 Permite añadir ingredientes, guardar y cargar recetas, y gestionar la información desde una interfaz gráfica intuitiva.
 
 ---
-
 ## 🎥 Demo en vídeo
 
 Puedes ver el funcionamiento de la aplicación aquí:
 
-👉 https://mariarosete.vercel.app/assets/pasteleria-D-NwjL4p.mp4
+👉 https://mariarosete.vercel.app/assets/pasteleria-D-NwjL4p.mp4  
 
 🖥️ Aplicación de escritorio (no desplegada)
+
 ---
+
 ## 🛠️ Tecnologías utilizadas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
