@@ -4,9 +4,7 @@
 
 **Pastelería Creativa** es una aplicación de escritorio desarrollada en **Java Swing** que permite crear, gestionar y visualizar recetas de repostería desde una interfaz intuitiva.  
 El usuario puede definir postres, añadir ingredientes, guardar recetas, cargarlas desde archivos de texto, personalizar la interfaz y acceder a una ayuda completa integrada en la aplicación.
-
 ---
-
 ## 🎥 Demo en vídeo
 
 Puedes ver el funcionamiento de la aplicación aquí:
@@ -14,100 +12,50 @@ Puedes ver el funcionamiento de la aplicación aquí:
 👉 https://mariarosete.vercel.app/assets/pasteleria-D-NwjL4p.mp4
 
 🖥️ Aplicación de escritorio desarrollada con Java Swing.
-
 ---
-
-## ✨ Características principales
-
-### 🧁 Creación de recetas
-- Introducir **nombre del postre**.  
-- Seleccionar **tipo** (tarta, cupcake, etc.).  
-- Seleccionar **categoría** (clásicos, innovadores…).  
-- Visualización inmediata en el panel de postres.
-
-### 📝 Gestión de ingredientes
-- Agregar ingredientes uno a uno.  
-- Eliminar ingredientes mediante **menú contextual** (clic derecho).  
-- Botón **“Limpiar todos”** para borrar todos los ingredientes con confirmación.  
-- Listado actualizado en el panel de ingredientes.
-
-### 💾 Gestión de archivos
-- **Guardar recetas** individualmente.  
-- **Cargar recetas** desde archivo de texto.  
-- **Generar archivo** con todas las recetas creadas.  
-- Acceso desde la barra de herramientas o desde el menú.
-
-### 📂 Historial de recetas
-- Las recetas creadas aparecen en **“Últimas recetas”**.  
-- Soporta múltiples recetas consecutivas (ej.: tarta de queso, magdalenas, etc.).
-
----
-
-## 🎨 Personalización
-
-El usuario puede personalizar los colores de:
-- **Texto de los postres**
-- **Texto de los ingredientes**
-
-Desde el menú **Personalización**, seleccionando el color deseado.
-
----
-
-## 🧩 Componentes personalizados incluidos
-
-### ❤️ Botón en forma de corazón
-- Diseñado extendiendo `JComponent`.  
-- Renderizado personalizado.  
-- Al pulsarlo carga recetas predefinidas almacenadas en un array.
-
-### 🟦 Paneles con bordes redondeados y sombra
-- Paneles extendidos de `JPanel`.  
-- Mejoran el diseño visual de la interfaz de Swing.
-
----
-
-## ❓ Sistema de Ayuda Integrado (JavaHelp)
-
-Accesible desde:
-- Menú **Ayuda → Ver ayuda**  
-- Barra de herramientas  
-- Tecla **F1**
-
-Incluye las secciones:
-- Inicio  
-- Funciones principales  
-- Gestión de archivos  
-- Personalización  
-- Índice completo  
-
----
-
 ## 🛠️ Tecnologías utilizadas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/Java%20Swing-5382A1?style=for-the-badge&logo=java&logoColor=white)
 ![JavaHelp](https://img.shields.io/badge/JavaHelp-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
-
 ---
 
-## 🚀 Objetivo del proyecto
+## 🚀 Funcionalidades destacadas
 
-Este proyecto fue desarrollado para:
-
-- Practicar el diseño de interfaces de escritorio con **Java Swing**.  
-- Manejar eventos, menús, barras de herramientas y diálogos.  
-- Crear **componentes personalizados**.  
-- Integrar **JavaHelp** como sistema de ayuda.  
-- Gestionar archivos de texto para almacenar y cargar recetas.
+- Creación y gestión de recetas  
+- Añadir y eliminar ingredientes  
+- Guardar y cargar recetas desde archivos  
+- Historial de recetas recientes  
+- Interfaz personalizable (colores)  
+- Sistema de ayuda integrado con JavaHelp  
 
 ---
 
 ## 💻 Cómo ejecutar el proyecto
 
-1. Abre el proyecto en tu IDE (IntelliJ, NetBeans o Eclipse).  
-2. Asegúrate de usar una versión de Java compatible.  
-3. Ejecuta la clase principal (`Main`).  
-4. La aplicación iniciará con la ventana principal de Pastelería Creativa.
+⚠️ Este proyecto no está desplegado. Se ejecuta en local.
+
+1. Abre el proyecto en IntelliJ, Eclipse o NetBeans  
+2. Ejecuta la clase principal (`Main`)  
+3. Se abrirá la aplicación de escritorio  
+
+---
+
+## 🧩 Detalles técnicos
+
+- Componentes personalizados en Swing (`JComponent`, `JPanel`)  
+- Renderizado de elementos personalizados (botón en forma de corazón)  
+- Uso de menús, diálogos y eventos  
+- Integración de sistema de ayuda con JavaHelp  
+
+---
+
+## 🎯 Objetivo del proyecto
+
+- Practicar desarrollo de interfaces en **Java Swing**  
+- Manejo de eventos y componentes gráficos  
+- Creación de componentes personalizados  
+- Gestión de archivos en Java  
 
 ---
 
@@ -123,10 +71,9 @@ Este proyecto fue desarrollado para:
   <a href="https://github.com/mariarosete">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-   <a href="https://mariarosete.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://mariarosete.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
 </p>
-
----
 
 <p align="center">Desarrollado con ❤️ por <b>María Rosete Suárez</b> </p>
