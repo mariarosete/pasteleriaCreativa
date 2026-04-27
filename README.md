@@ -78,4 +78,4 @@ Puedes ver el funcionamiento de la aplicación aquí:
   </a>
 </p>
 
-<p align="center">Desarrollado con ❤️ por <b>María Rosete Suárez</b> </p>
+<p align="center">Desarrollado con ❤️ por <b>María Rosete </b> </p>
