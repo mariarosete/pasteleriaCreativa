@@ -13,7 +13,7 @@ Puedes ver el funcionamiento de la aplicación aquí:
 
 👉 https://mariarosete.vercel.app/assets/pasteleria-D-NwjL4p.mp4
 
-🖥️ Aplicación de escritorio desarrollada con Java Swing.
+🖥️ Aplicación de escritorio (no desplegada)
 ---
 ## 🛠️ Tecnologías utilizadas
 
