@@ -23,7 +23,7 @@ Puedes ver el funcionamiento de la aplicación aquí:
 ![JavaHelp](https://img.shields.io/badge/JavaHelp-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
 ---
 
-## 🚀 Funcionalidades destacadas
+## Funcionalidades destacadas
 
 - Creación y gestión de recetas  
 - Añadir y eliminar ingredientes  
@@ -44,7 +44,7 @@ Puedes ver el funcionamiento de la aplicación aquí:
 
 ---
 
-## 🧩 Detalles técnicos
+## Detalles técnicos
 
 - Componentes personalizados en Swing (`JComponent`, `JPanel`)  
 - Renderizado de elementos personalizados (botón en forma de corazón)  
@@ -53,7 +53,7 @@ Puedes ver el funcionamiento de la aplicación aquí:
 
 ---
 
-## 🎯 Objetivo del proyecto
+## Objetivo del proyecto
 
 - Practicar desarrollo de interfaces en **Java Swing**  
 - Manejo de eventos y componentes gráficos  
